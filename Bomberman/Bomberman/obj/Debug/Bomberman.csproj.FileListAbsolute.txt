@@ -1,0 +1,1 @@
+c:\users\amateur\documents\visual studio 2015\Projects\Bomberman\Bomberman\bin\Debug\Bomberman.exe.config
